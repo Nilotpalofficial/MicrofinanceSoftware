@@ -1,0 +1,11 @@
+# robots.txt for G3s Microfinance
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://www.g3smicrofinance.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
